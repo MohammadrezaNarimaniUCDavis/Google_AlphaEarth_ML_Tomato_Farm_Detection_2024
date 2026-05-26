@@ -8,7 +8,7 @@
 
 Click the image below to view the **full high-resolution PDF** of the project poster.
 
-[![Project Poster](https://github.com/MohammadrezaNarimaniUCDavis/Google_AlphaEarth_ML_Tomato_Farm_Detection_2024/blob/main/Poster_Showcase/ESEARCH_Spring_2026_Poster.png)](https://github.com/MohammadrezaNarimaniUCDavis/Google_AlphaEarth_ML_Tomato_Farm_Detection_2024/blob/main/Poster_Showcase/ESEARCH_Spring_2026_Poster.pdf)
+[![Project Poster](Poster_Showcase/ESEARCH_Spring_2026_Poster.png)](Poster_Showcase/ESEARCH_Spring_2026_Poster.pdf)
 
 ---
 
